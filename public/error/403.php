@@ -1,0 +1,2 @@
+<?php ?><!doctype html><html><head><meta charset="utf-8"><title>403 Forbidden</title></head><body style="font-family:system-ui;padding:24px">
+<h1>403 Forbidden</h1><p>You don't have permission to access this page.</p><p><a href="<?= htmlspecialchars(BASE_URL) ?>">Go Home</a></p></body></html>
